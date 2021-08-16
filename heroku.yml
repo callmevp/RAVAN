@@ -2,4 +2,4 @@ build:
   docker:
       worker: Dockerfile
 run:
-   worker: python3 -m d3vilbot
+   worker: python3 -m visabot
